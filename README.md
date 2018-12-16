@@ -1,5 +1,7 @@
 # Maknyus Ipsum
-Lorem ipsum but with Indonesian foods. Yum.
+Lorem ipsum but with Indonesian foods. Yum. 
+
+[List of foods](https://id.wikipedia.org/wiki/Daftar_masakan_Indonesia)
 
 ## Build Setup
 
