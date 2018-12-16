@@ -52,7 +52,7 @@ export default {
       function () {
         let params = {}
         params['n'] = this.n
-        const path = `http://127.0.0.1:5000/api/maknyus`
+        const path = process.env.API_URL + '/maknyus'
         axios.get(path, {
           params: params
         })
